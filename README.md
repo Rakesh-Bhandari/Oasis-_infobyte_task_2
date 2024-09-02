@@ -53,4 +53,4 @@ pip install customtkinter matplotlib pillow
 
 This is a simple, user-friendly BMI (Body Mass Index) Calculator built using Python's CustomTkinter for the GUI and Matplotlib for graph plotting.
 
-![BMI Calculator Screenshot](images/bmi_calculator.png)
+![BMI Calculator Screenshot](BMI/images/bmi_calculator.png)
